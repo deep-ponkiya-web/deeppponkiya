@@ -1,0 +1,25 @@
+@import "../../_globalColor";
+
+.dev-icons {
+  padding-left: 0;
+  list-style: none;
+  font-size: 2rem;
+  margin-bottom: 0px;
+  margin-top: 0px;
+  text-align: center;
+}
+
+.software-skill-inline {
+  display: inline-block;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+
+.software-skill-inline > p {
+  font-size: 10px;
+}
+.icon-size{
+  height: 45px;
+  width: 45px;
+  object-fit: contain;
+}
